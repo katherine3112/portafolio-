@@ -575,6 +575,1135 @@ main section#contactame article nav a:hover{
     transform: scale(1.03);
     transition: all 0.3s ease-in;
 }
+/* aguadas */
+main section#ilus-definicion{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#ilus-definicion article{
+    width:90%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#ilus-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0 ;
+    float: left;
+    position: relative;
+}
+main section#ilus-definicion article figure#texto h2{
+    text-align: right;
+    font-size: 1.5em; 
+    margin: 106px 20px 10px; 
+}
+main section#ilus-definicion article figure#texto p{
+    text-align: right;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#ilus-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0 ;
+    float: left;
+    position: relative;
+
+}
+main section#ilus-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#aguadas-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#aguadas-definicion article{
+    width:90%;
+    height:auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#aguadas-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#aguadas-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#aguadas-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#aguadas-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin: 106px 20px 10px; 
+}
+main section#aguadas-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 80%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+   
+}
+
+/* Diagramacion de libros  */
+main section#deditorial-definicion{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#deditorial-definicion article{
+    width:90%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#deditorial-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#deditorial-definicion article figure#texto h2{
+    text-align: right;
+    font-size: 1.5em; 
+    margin:106px 20px 10px; 
+}
+main section#deditorial-definicion article figure#texto p{
+    text-align: right;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#deditorial-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#deditorial-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#dlibros-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#dlibros-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#dlibros-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#dlibros-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#dlibros-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#dlibros-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin:0 20px 10px; 
+}
+main section#dlibros-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+
+/* diagramacion periodicos */
+main section#periodicos-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#periodicos-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#periodicos-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#periodicos-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#periodicos-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#periodicos-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin:0 20px 10px; 
+}
+main section#periodicos-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+
+/* diagramacion revistas */
+main section#revistas-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#revistas-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#revistas-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#revistas-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#revistas-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float:left;
+    position: relative;
+}
+main section#revistas-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin:0 20px 10px; 
+}
+main section#revistas-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+/* digital */
+main section#digital-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#digital-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#digital-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#digital-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#digital-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#digital-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin: 0 20px 10px; 
+}
+main section#digital-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+
+/* ecolin */
+main section#ecolin-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#ecolin-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#ecolin-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#ecolin-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#ecolin-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#ecolin-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin:  0 20px 10px; 
+}
+main section#ecolin-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+/* i corporativa */
+main section#global-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#global-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#global-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#global-definicion article figure#texto h2{
+    text-align: right;
+    font-size: 1.5em; 
+    margin:106px 20px 10px; 
+}
+main section#global-definicion article figure#texto p{
+    text-align: right;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#global-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#global-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#corporativa-definicion{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#corporativa-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#corporativa-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#corporativa-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#corporativa-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#corporativa-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin:0 20px 10px; 
+}
+main section#corporativa-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+/* manual de identidad */
+main section#manual-definicion{
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#manual-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#manual-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#manual-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#manual-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#manual-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin:0 20px 10px; 
+}
+main section#manual-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+
+/* portafolio */
+
+main section#galeria{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #f5edf4;
+
+}
+main section#galeria figure{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+
+}
+main section#galeria figure nav{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    padding: 10px;
+    text-align: center;
+
+}
+main section#galeria figure nav a{
+
+    transition: all 0.3s ease-in;
+
+}
+main section#galeria figure nav a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#galeria figure nav a img{
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.fancybox-container{
+    z-index: 99999 !important;
+}
+/* puntillismo */
+main section#puntillismo-definicion{
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+    
+}
+main section#puntillismo-definicion article{
+    width:90%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+main section#puntillismo-definicion article figure#imagen{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#puntillismo-definicion article figure#imagen img{
+    padding: 22px 70px;
+}
+main section#puntillismo-definicion article figure#texto{
+    width:50%;
+    height: auto;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+main section#puntillismo-definicion article figure#texto h2{
+    text-align: left;
+    font-size: 1.5em; 
+    margin:  0 20px 10px; 
+}
+main section#puntillismo-definicion article figure#texto p{
+    text-align: left;
+    font-size: 1em; 
+    margin: 10px 20px 10px; 
+}
+main section#trabajos{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    background: #FFFFFF;
+
+}
+main section#trabajos article{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+
+}
+main section#trabajos article nav{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+
+}
+main section#trabajos article nav div{
+    width: 100%;
+    height: auto;
+    margin: 0 auto ;
+    float: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
+}
+main section#trabajos article nav div a{
+    width: 250px;
+    height: auto;
+    margin: 10px 8px;
+    float: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in;
+
+}
+main section#trabajos article nav div a img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    
+}
+
 /* componente footer */
 footer{
     width: 100%;
@@ -742,6 +1871,9 @@ footer article nav#wp-pint a:hover{
     main section#sobre-mi article figure#imagen img {
         padding: 22px 30px;
     }
+    main section#aguadas-definicion article figure#imagen img{
+        padding: 22px 30px;
+    }
         
     footer article figure {
         margin: 10px 48px 10px -80px;
@@ -774,9 +1906,6 @@ footer article nav#wp-pint a:hover{
     main section#sobre-mi article figure#texto p{
         text-align: center; 
     }
-    footer article figure {
-        margin: 10px 48px 10px -8px;
-    }
     main section#sobre-mi article figure#imagen{
         width:80%;
         height: auto;
@@ -786,6 +1915,325 @@ footer article nav#wp-pint a:hover{
     main section#sobre-mi article figure#imagen img{
         padding: 30px 0;
     }
+    main section#ilus-definicion article{
+            width:80%;
+            height: auto;
+    }
+    main section#ilus-definicion article figure#texto{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#ilus-definicion article figure#texto h2{
+        text-align: center; 
+    }
+    main section#ilus-definicion article figure#texto p{
+        text-align: center; 
+    }
+    main section#ilus-definicion article figure#imagen{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#ilus-definicion article figure#imagen img{
+        padding: 30px 0;
+    }
+    main section#aguadas-definicion article{
+        width:80%;
+        height: auto;
+    }
+    main section#aguadas-definicion article figure#imagen{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#aguadas-definicion article figure#imagen img{
+        padding: 30px 20px;
+    }
+    main section#aguadas-definicion article figure#texto{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#aguadas-definicion article figure#texto h2{
+        text-align: center; 
+    }
+    main section#aguadas-definicion article figure#texto p{
+        text-align: center;
+    }
+    main section#digital-definicion {
+        width:auto;
+        height: auto;
+
+    }
+    main section#digital-definicion article{
+        width:80%;
+        height: auto;
+    }
+    main section#digital-definicion article figure#imagen{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#digital-definicion article figure#imagen img{
+        padding: 30px 0;
+    }
+    main section#digital-definicion article figure#texto{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#digital-definicion article figure#texto h2{
+        text-align: center; 
+    }
+    main section#digital-definicion article figure#texto p{
+        text-align: center;
+    }
+    main section#trabajos article{
+        width: 80%;
+        height: auto;
+    
+    }
+    main section#ecolin-definicion {
+        width:auto;
+        height: auto;
+
+    }
+    main section#ecolin-definicion article{
+        width:80%;
+        height: auto;
+    }
+    main section#ecolin-definicion article figure#imagen{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#ecolin-definicion article figure#imagen img{
+        padding: 30px 0;
+    }
+    main section#ecolin-definicion article figure#texto{
+        width:80%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+    main section#ecolin-definicion article figure#texto h2{
+        text-align: center; 
+    }
+    main section#ecolin-definicion article figure#texto p{
+        text-align: center;
+    }
+
+main section#puntillismo-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#puntillismo-definicion article figure#imagen{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#puntillismo-definicion article figure#imagen img{
+    padding: 30px 20px;
+}
+main section#puntillismo-definicion article figure#texto{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#puntillismo-definicion article figure#texto h2{
+    text-align: center; 
+}
+main section#puntillismo-definicion article figure#texto p{
+    text-align: center;
+}
+main section#deditorial-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#deditorial-definicion article figure#texto{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#deditorial-definicion article figure#texto h2{
+    text-align: center; 
+}
+main section#deditorial-definicion article figure#texto p{
+    text-align: center; 
+}
+main section#deditorial-definicion article figure#imagen{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#deditorial-definicion article figure#imagen img{
+    padding: 30px 0;
+}
+main section#dlibros-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#dlibros-definicion article figure#imagen{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#dlibros-definicion article figure#imagen img{
+    padding: 30px 20px;
+}
+main section#dlibros-definicion article figure#texto{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#dlibros-definicion article figure#texto h2{
+    text-align: center; 
+}
+main section#dlibros-definicion article figure#texto p{
+    text-align: center;
+}
+main section#periodicos-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#periodicos-definicion article figure#imagen{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#periodicos-definicion article figure#imagen img{
+    padding: 30px 20px;
+}
+main section#periodicos-definicion article figure#texto{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#periodicos-definicion article figure#texto h2{
+    text-align: center; 
+}
+main section#periodicos-definicion article figure#texto p{
+    text-align: center;
+}
+main section#revistas-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#revistas-definicion article figure#imagen{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#revistas-definicion article figure#imagen img{
+    padding: 30px 20px;
+}
+main section#revistas-definicion article figure#texto{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#revistas-definicion article figure#texto h2{
+    text-align: center; 
+}
+main section#revistas-definicion article figure#texto p{
+    text-align: center;
+}
+main section#global-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#global-definicion article figure#texto{
+width:80%;
+height: auto;
+margin: 0 auto;
+float: none;
+}
+main section#global-definicion article figure#texto h2{
+text-align: center; 
+}
+main section#global-definicion article figure#texto p{
+text-align: center; 
+}
+main section#global-definicion article figure#imagen{
+width:80%;
+height: auto;
+margin: 0 auto;
+float: none;
+}
+main section#global-definicion article figure#imagen img{
+padding: 30px 0;
+}
+main section#corporativa-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#corporativa-definicion article figure#imagen{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#corporativa-definicion article figure#imagen img{
+    padding: 30px 20px;
+}
+main section#corporativa-definicion article figure#texto{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#corporativa-definicion article figure#texto h2{
+    text-align: center; 
+}
+main section#corporativa-definicion article figure#texto p{
+    text-align: center;
+}
+main section#revistas-definicion article{
+    width:80%;
+    height: auto;
+}
+main section#manual-definicion article figure#imagen{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#manual-definicion article figure#imagen img{
+    padding: 30px 20px;
+}
+main section#manual-definicion article figure#texto{
+    width:80%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+main section#manual-definicion article figure#texto h2{
+    text-align: center; 
+}
+main section#manual-definicion article figure#texto p{
+    text-align: center;
+}
+footer article figure {
+    margin: 10px 48px 10px -8px;
+}
     footer article nav#fb-inst {
         width: 263px;
         height: 35px;
@@ -802,3 +2250,4 @@ footer article nav#wp-pint a:hover{
         
     } 
 }
+
